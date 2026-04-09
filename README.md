@@ -49,9 +49,9 @@ java -cp ".;lib/mysql-connector-j-9.6.0.jar" --module-path "PATH_TO_JAVAFX/lib" 
 4. View transaction status messages
 
 ---
-
 ## Project Structure
 
+```
 banking/
 ├── Account.java
 ├── BankService.java
@@ -64,6 +64,7 @@ banking/
 │
 ├── .gitignore
 └── README.md
+```
 
 ---
 
